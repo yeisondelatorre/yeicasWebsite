@@ -1,2 +1,2 @@
 # yeicasWebsite
-página web con Hugo
+página web con quarto
