@@ -1,0 +1,17 @@
+---
+title: ""
+image: IMG_1129.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: github
+      href: https://github.com/yeisondelatorre
+    # (additional links excluded for brevity)
+---
+
+**YEISON DAVID DE LA TORRE CASILLO**
+
+Economista graduado de la universidad del Magdalena, con más de 3 años de experiencia en grupos de investigación y en la formulación, evaluación y ejecución de proyectos. Tengo un historial comprobado del usos de mis habilidades personales, de comunicación, ofimáticas y herramientas estadísticas para dirigir y mejorar aspectos metodológicos o practicas del entorno académico y empresarial. Poseo sólidas habilidades en procesamiento de datos SIG, herramientas y paquetes estadísticos (R-studio, Stata, Excel, ArcGis, entre otros). mis principales virtudes son las de un líder que siempre está innovando y apoyando los procesos a su equipo para ofrecer mejores resultados que los establecidos, soy una persona muy responsable, asertiva y proactiva que siempre está trabajando uno milla extra para alcanzar sus objetivos, y soy capaz de trabajar de forma independiente. mi CV aquí

@@ -1,0 +1,46 @@
+project:
+  type: website
+
+website:
+  title: "YDC"
+  page-footer:
+    background: light
+    left: "Copyright 2021, Norah Jones" 
+    center: "Call: +57 3186808215", "yeicasillo@gmail.com"
+    right: 
+      - icon: twitter 
+        href: https://twitter.com/
+      - icon: instagram
+        href: https://www.instagram.com/
+      - icon: whatsapp
+        href: https://wa.link/f4qdb8
+  navbar:
+    tools:
+      - icon: github
+        href: https://github.com/yeisondelatorre
+    background: primary
+    search: true
+    right:
+      - text: "Home"
+        file: index.qmd
+      - text: "Tutorials"
+        file: tutorials.qmd
+      - text: "Trabajos"
+        file: howto.qmd
+      - text: "Fundamentals"
+        file: fundamentals.qmd
+      - text: "Reference"
+        file: reference.qmd
+      - about.qmd
+    logo: Logoyei.jpg
+   
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+
