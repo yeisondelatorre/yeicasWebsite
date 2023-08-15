@@ -9,9 +9,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "A cerca de Mí",
     "section": "",
-    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente."
+    "text": "“El individuo ha luchado siempre para no ser absorbido por la tribu. Si lo intentas, a menudo estarás solo, y a veces asustado. Pero ningún precio es demasiado alto por el privilegio de ser uno mismo”.(1844-1900) Friedrich Wilhelm Nietzsche\nMi nombre es Yeison David De La Torre Casillo, nacido en la ciudad de Santa Marta “La Perla de América” obtuve mi título de economista el 2017 en la Universidad del Magdalena. fué en esta hermosa carrera donde despertó mi amor y pasión por los datos, investigación y herramientas computacionales."
   },
   {
     "objectID": "about.html#necessitatibus",
@@ -23,8 +23,15 @@
   {
     "objectID": "about.html#fugit-laboriosam",
     "href": "about.html#fugit-laboriosam",
-    "title": "About",
+    "title": "A cerca de Mí",
     "section": "Fugit, laboriosam",
     "text": "Fugit, laboriosam\nEum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit. Quam, nulla, excepturi, voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia voluptatem natus velit fugiat omnis rem eos sapiente quasi quaerat aspernatur quisquam deleniti accusantium laboriosam odio id?"
+  },
+  {
+    "objectID": "about.html#mis-estudios",
+    "href": "about.html#mis-estudios",
+    "title": "A cerca de Mí",
+    "section": "Mis estudios",
+    "text": "Mis estudios\nSoy economista graduado en la Universidad del Magdalena, adelanto mis estudios de post grado en la Universidad del Norte en Economía investigativa y Maestría en Analítica de Datos"
   }
 ]
