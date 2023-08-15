@@ -1,6 +1,6 @@
 ---
 title: ""
-image: IMG_1129.jpg
+image: IMG_1129.png
 about:
   template: jolla
   links:

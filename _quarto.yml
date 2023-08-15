@@ -6,7 +6,7 @@ website:
   page-footer:
     background: light
     left: "Copyright 2021, Norah Jones" 
-    center: "Call: +57 3186808215", "yeicasillo@gmail.com"
+    center: "Call: +57 3186808215"
     right: 
       - icon: twitter 
         href: https://twitter.com/
