@@ -2,13 +2,15 @@
 title: "A cerca de Mí"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
+"*El individuo ha luchado siempre para no ser absorbido por la tribu. Si lo intentas, a menudo estarás solo, y a veces asustado. Pero ningún precio es demasiado alto por el privilegio de ser uno mismo*".**(1844-1900) Friedrich Wilhelm Nietzsche**
+
+Mi nombre es Yeison David De La Torre Casillo, nacido en la ciudad de Santa Marta "***La Perla de América***" obtuve mi título de economista el 2017 en la Universidad del Magdalena. fué en esta hermosa carrera donde despertó mi amor y pasión por los datos, investigación y herramientas computacionales.
 
 ![](aboutIMAG.jpg){fig-align="center"}
 
-## Necessitatibus
+## Mis estudios
 
-Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!
+Soy economista graduado en la Universidad del Magdalena, adelanto mis estudios de post grado en la Universidad del Norte en Economía investigativa y Maestría en Analítica de Datos
 
 ## Fugit, laboriosam
 
