@@ -22,16 +22,16 @@ website:
     search: true
     right:
       - text: "Home"
-        file: index.qmd
-      - text: "Tutorials"
-        file: tutorials.qmd
+        file: index.qmd.
+      - text: "Acerca de mí"
+        file: about.qmd
       - text: "Trabajos"
         file: howto.qmd
-      - text: "Fundamentals"
-        file: fundamentals.qmd
-      - text: "Reference"
-        file: reference.qmd
-      - about.qmd
+      - text: "Tutoriales"
+        file: tutorials.qmd
+      - text: "BD e Instrumentos"
+        file: BD e Instrumentos.qmd
+        
     logo: Logoyei.jpg
    
 format:
